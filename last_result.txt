@@ -1,0 +1,314 @@
+<table class="table table-bordered" cellspacing="0" cellpadding="0" border="0" width="100%">
+							<thead>
+								<tr>
+									<td width="15%">Course Name</td>
+									<td width="10%">Code</td>
+									<td width="10%">Grade</td>
+									<td width="10%">Credits Earned</td>
+									<td width="10%">Month &amp; Year of Examination</td>
+								</tr>
+							</thead>
+							<tbody>
+								    
+								<tr>
+									<td>DATA STRUCTURES</td>
+									<td>ITT201</td>
+										
+											
+	
+											
+											
+												<td>B+</td>
+												<td>
+													
+														
+														
+															4.0
+														
+													
+												</td>
+											
+											
+										
+
+										
+											
+
+											
+												
+												<td>November 2024</td>
+
+											
+
+										
+									</tr>
+								    
+								<tr>
+									<td>DATA STRUCTURES LAB</td>
+									<td>ITL201</td>
+										
+											
+	
+											
+											
+												<td>A+</td>
+												<td>
+													
+														
+														
+															2.0
+														
+													
+												</td>
+											
+											
+										
+
+										
+											
+
+											
+												
+												<td>November 2024</td>
+
+											
+
+										
+									</tr>
+								    
+								<tr>
+									<td>DIGITAL SYSTEM DESIGN</td>
+									<td>ITT203</td>
+										
+											
+	
+											
+											
+												<td>D</td>
+												<td>
+													
+														
+														
+															4.0
+														
+													
+												</td>
+											
+											
+										
+
+										
+											
+
+											
+												
+												<td>November 2024</td>
+
+											
+
+										
+									</tr>
+								    
+								<tr>
+									<td>DISCRETE MATHEMATICAL STRUCTURES</td>
+									<td>MAT203</td>
+										
+											
+	
+											
+											
+												<td>P</td>
+												<td>
+													
+														
+														
+															4.0
+														
+													
+												</td>
+											
+											
+										
+
+										
+											
+
+											
+												
+												<td>November 2024</td>
+
+											
+
+										
+									</tr>
+								    
+								<tr>
+									<td>PROBLEM SOLVING USING PYTHON</td>
+									<td>ITT205</td>
+										
+											
+	
+											
+											
+												<td>B+</td>
+												<td>
+													
+														
+														
+															4.0
+														
+													
+												</td>
+											
+											
+										
+
+										
+											
+
+											
+												
+												<td>November 2024</td>
+
+											
+
+										
+									</tr>
+								    
+								<tr>
+									<td>PROFESSIONAL ETHICS</td>
+									<td>HUT200</td>
+										
+											
+	
+											
+											
+												<td>B</td>
+												<td>
+													
+														
+														
+															2.0
+														
+													
+												</td>
+											
+											
+										
+
+										
+											
+
+											
+												
+												<td>November 2024</td>
+
+											
+
+										
+									</tr>
+								    
+								<tr>
+									<td>PROGRAMMING AND SYSTEM UTILITIES LAB</td>
+									<td>ITL203</td>
+										
+											
+	
+											
+											
+												<td>B+</td>
+												<td>
+													
+														
+														
+															2.0
+														
+													
+												</td>
+											
+											
+										
+
+										
+											
+
+											
+												
+												<td>November 2024</td>
+
+											
+
+										
+									</tr>
+								    
+								<tr>
+									<td>SUSTAINABLE ENGINEERING</td>
+									<td>MCN201</td>
+										
+											
+	
+											
+											
+												<td>C+</td>
+												<td>
+													
+														
+														
+															0.0
+														
+													
+												</td>
+											
+											
+										
+
+										
+											
+
+											
+												
+												<td>November 2024</td>
+
+											
+
+										
+									</tr>
+								
+								<tr>
+									<td colspan="3" align="centre"> Total Earned Credits</td>
+										
+											
+											
+												<td colspan="2">22</td>
+											
+										
+									
+								</tr>
+								
+								<tr>
+									<td colspan="3" align="centre"> Total Credits in the Semester</td>
+										
+											
+											
+												<td colspan="2">22</td>
+											
+										
+									
+								</tr>
+								
+								
+									<tr>
+										<td colspan="3" align="centre">SGPA</td>										
+										
+											
+											
+												<td colspan="2">7.23</td>
+											
+										
+									</tr>
+									<tr>
+										
+									</tr>
+								
+							</tbody>
+						</table>
